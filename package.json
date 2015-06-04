@@ -15,10 +15,10 @@
   "readme": "# mac-github theme\n\nA quick MIX between atom-github-2014 theme & the original mac-classic theme",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/ahmadseleem/mac-github/issues"
+    "url": "https://github.com/ahmadseleem/mac-github-syntax/issues"
   },
 
-  "homepage": "https://github.com/ahmadseleem/mac-github",
+  "homepage": "https://github.com/ahmadseleem/mac-github-syntax",
 
   "_atomModuleCache": {
     "version": 1,
