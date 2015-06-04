@@ -5,7 +5,7 @@
   "description": "A quick MIX between atom-github-2014 & mac-classic themes",
   "keywords": [
     "syntax",
-    "theme"
+      "theme"
   ],
   "repository": "https://github.com/ahmadselee/mac-github-syntax",
   "license": "MIT",
@@ -18,5 +18,5 @@
     "url": "https://github.com/ahmadseleem/mac-github-syntax/issues"
   },
 
-  "homepage": "https://github.com/ahmadseleem/mac-github-syntax",
+  "homepage": "https://github.com/ahmadseleem/mac-github-syntax"
 }
