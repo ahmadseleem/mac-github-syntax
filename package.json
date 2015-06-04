@@ -1,11 +1,11 @@
 {
   "name": "mac-github-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A quick MIX between atom-github-2014 & mac-classic themes",
   "keywords": [
     "syntax",
-      "theme"
+    "theme"
   ],
   "repository": "https://github.com/ahmadseleem/mac-github-syntax",
   "license": "MIT",
@@ -17,6 +17,5 @@
   "bugs": {
     "url": "https://github.com/ahmadseleem/mac-github-syntax/issues"
   },
-
   "homepage": "https://github.com/ahmadseleem/mac-github-syntax"
 }
