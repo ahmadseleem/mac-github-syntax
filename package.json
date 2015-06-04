@@ -1,0 +1,33 @@
+{
+  "name": "mac-github-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A quick MIX between atom-github-2014 & mac-classic themes",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/mac-github-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "readme": "# mac-github theme\n\nA quick MIX between atom-github-2014 theme & the original mac-classic theme",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/ahmadseleem/mac-github/issues"
+  },
+
+  "homepage": "https://github.com/ahmadseleem/mac-github",
+
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
