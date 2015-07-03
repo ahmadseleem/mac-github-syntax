@@ -2,7 +2,7 @@
   "name": "mac-github-syntax",
   "theme": "syntax",
   "version": "1.2.0",
-  "description": "A quick MIX between atom-github-2014 & mac-classic themes",
+  "description": "A nicer Light theme: quick MIX between atom-github-2014 & mac-classic themes",
   "keywords": [
     "syntax",
     "theme"
@@ -12,7 +12,8 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "readme": "# mac-github theme\n\nA quick MIX between atom-github-2014 theme & the original mac-classic theme",
+
+  "readme": "# mac-github theme\n\nA nicer Light theme: It's a quick MIX between atom-github-2014 theme & the original mac-classic theme",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/ahmadseleem/mac-github-syntax/issues"
