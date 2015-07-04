@@ -1,3 +1,6 @@
+## 1.3.9
+* Fixes String highlighting.
+
 ## 1.3.0
 * Fixes screenshot link.
 * Fixes theme description.
