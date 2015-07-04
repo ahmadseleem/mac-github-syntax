@@ -15,9 +15,7 @@
   "bugs": {
     "url": "https://github.com/ahmadseleem/mac-github-syntax/issues"
   },
-  "readme": "# mac-github theme\n\nA quick MIX between atom-github-2014 theme
-   & the original mac-classic theme\n\n
-   ![screenshot](https://raw.githubusercontent.com/ahmadseleem/mac-github-syntax/master/screenshot.png)",
+  "readme": "# mac-github theme\n\nA quick MIX between atom-github-2014 theme & the original mac-classic theme\n\n ![screenshot](https://raw.githubusercontent.com/ahmadseleem/mac-github-syntax/master/screenshot.png)",
   "readmeFilename": "README.md",
 
   "homepage": "https://github.com/ahmadseleem/mac-github-syntax"
