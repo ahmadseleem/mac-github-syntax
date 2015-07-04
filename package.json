@@ -12,7 +12,6 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "readme": "# mac-github theme\n\nA nicer Light theme: It's a quick MIX between atom-github-2014 theme & the original mac-classic theme",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/ahmadseleem/mac-github-syntax/issues"
